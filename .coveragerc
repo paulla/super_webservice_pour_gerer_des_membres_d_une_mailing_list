@@ -1,0 +1,3 @@
+[run]
+source = super_webservice_pour_gerer_des_membres_d_une_mailing_list
+omit = super_webservice_pour_gerer_des_membres_d_une_mailing_list/test*

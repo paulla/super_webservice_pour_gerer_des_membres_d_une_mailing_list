@@ -1,0 +1,2 @@
+include *.txt *.ini *.cfg *.rst
+recursive-include super_webservice_pour_gerer_des_membres_d_une_mailing_list *.ico *.png *.css *.gif *.jpg *.pt *.txt *.mak *.mako *.js *.html *.xml *.jinja2
